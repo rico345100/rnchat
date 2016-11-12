@@ -1,5 +1,9 @@
 # React Native ChatApp with WebSocket
 
+## Link react-native-prompt-android
+Run this command before runs(only once).
+> $ react-native link react-native-prompt-android
+
 ## Run dev
 > $ react-native run-android
 
